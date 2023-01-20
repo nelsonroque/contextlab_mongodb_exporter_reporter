@@ -1,0 +1,6 @@
+venv/*
+.DS_Store
+data/*
+.env
+__pycache__/lib.cpython-39.pyc
+__pycache__/lib.cpython-39.pyc
